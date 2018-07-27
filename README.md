@@ -11,7 +11,7 @@ To use
 7. check in every hour or so to ensure the walking script doesn't get you stuck
 
 Suggested party:
-Curaja as your third party member's primart tier 7 spell and Elixirs as the first inventory item
+Curaja as your third party member's primary tier 7 spell, with third party member having job capable of casting it and Elixirs as the first inventory item
 
 To come:
 -GUI with customizable party commands
